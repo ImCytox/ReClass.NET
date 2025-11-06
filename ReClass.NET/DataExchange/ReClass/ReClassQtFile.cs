@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.Linq;
@@ -88,7 +88,7 @@ namespace ReClassNET.DataExchange.ReClass
 			}
 		}
 
-		/// <summary>Parse a ReClassQT address string and transform it into a ReClass.NET formula.</summary>
+		/// <summary>Parse a ReClassQT address string and transform it into a R3Cl4ss.N3T formula.</summary>
 		/// <param name="element">The class element.</param>
 		/// <returns>A string with an address formula.</returns>
 		private static string ParseAddressString(XElement element)

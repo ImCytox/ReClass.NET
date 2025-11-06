@@ -10,19 +10,19 @@ namespace ReClassNET.Plugins
 	[ContractClass(typeof(PluginHostContract))]
 	public interface IPluginHost
 	{
-		/// <summary>Gets the main window of ReClass.NET.</summary>
+		/// <summary>Gets the main window of R3Cl4ss.N3T.</summary>
 		MainForm MainWindow { get; }
 
-		/// <summary>Gets the resources of ReClass.NET.</summary>
+		/// <summary>Gets the resources of R3Cl4ss.N3T.</summary>
 		ResourceManager Resources { get; }
 
-		/// <summary>Gets the process ReClass.NET is attached to.</summary>
+		/// <summary>Gets the process R3Cl4ss.N3T is attached to.</summary>
 		RemoteProcess Process { get; }
 
-		/// <summary>Gets the logger ReClass.NET is using.</summary>
+		/// <summary>Gets the logger R3Cl4ss.N3T is using.</summary>
 		ILogger Logger { get; }
 
-		/// <summary>Gets the settings ReClass.NET is using.</summary>
+		/// <summary>Gets the settings R3Cl4ss.N3T is using.</summary>
 		Settings Settings { get; }
 	}
 

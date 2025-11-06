@@ -68,7 +68,7 @@ namespace ReClassNET.Util
 		});
 
 		/// <summary>Gets the full pathname of the settings folder.</summary>
-		/// <remarks>%localappdata%\ReClass.NET\</remarks>
+		/// <remarks>%localappdata%\R3Cl4ss.N3T\</remarks>
 		public static string SettingsFolderPath => settingsFolderPath.Value;
 
 		private static readonly Lazy<string> launcherExecutablePath = new Lazy<string>(() =>

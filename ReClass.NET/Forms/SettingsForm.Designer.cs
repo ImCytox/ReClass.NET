@@ -207,8 +207,8 @@ namespace ReClassNET.Forms
             this.associationInfoLabel.Name = "associationInfoLabel";
             this.associationInfoLabel.Size = new System.Drawing.Size(525, 28);
             this.associationInfoLabel.TabIndex = 0;
-            this.associationInfoLabel.Text = "RCNET files can be associated with ReClass.NET. When you double-click a RCNET fil" +
-    "e, they will automatically be opened by ReClass.NET.";
+            this.associationInfoLabel.Text = "RCNET files can be associated with R3Cl4ss.N3T. When you double-click a RCNET fil" +
+    "e, they will automatically be opened by R3Cl4ss.N3T.";
             // 
             // commentsGroupBox
             // 
@@ -378,7 +378,7 @@ namespace ReClassNET.Forms
             this.stayOnTopCheckBox.Name = "stayOnTopCheckBox";
             this.stayOnTopCheckBox.Size = new System.Drawing.Size(187, 17);
             this.stayOnTopCheckBox.TabIndex = 1;
-            this.stayOnTopCheckBox.Text = "Force ReClass.NET to stay on top";
+            this.stayOnTopCheckBox.Text = "Force R3Cl4ss.N3T to stay on top";
             this.stayOnTopCheckBox.UseVisualStyleBackColor = true;
             // 
             // colorsSettingTabPage
@@ -1125,7 +1125,7 @@ namespace ReClassNET.Forms
             this.Name = "SettingsForm";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            this.Text = "ReClass.NET - Settings";
+            this.Text = "R3Cl4ss.N3T - Settings";
             this.settingsTabControl.ResumeLayout(false);
             this.generalSettingsTabPage.ResumeLayout(false);
             this.generalSettingsTabPage.PerformLayout();

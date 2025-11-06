@@ -217,7 +217,7 @@ namespace ReClassNET.Forms
 
 			LoadProjectFromPath(path, ref project);
 
-			// If the file is a ReClass.NET file remember the path.
+			// If the file is a R3Cl4ss.N3T file remember the path.
 			if (Path.GetExtension(path) == ReClassNetFile.FileExtension)
 			{
 				project.Path = path;
