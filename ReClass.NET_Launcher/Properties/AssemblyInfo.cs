@@ -1,16 +1,16 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("ReClass.NET Launcher")]
+[assembly: AssemblyTitle("R3Cl4ss.NET Launcher")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ReClass.NET")]
-[assembly: AssemblyCopyright("KN4CK3R")]
+[assembly: AssemblyProduct("R3Cl4ss.NET")]
+[assembly: AssemblyCopyright("ImCytox")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

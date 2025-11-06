@@ -10,7 +10,7 @@ namespace ReClassNET
 
 		public const string LauncherExecutableName = ApplicationName + "_Launcher.exe";
 
-		public const string Author = "KN4CK3R";
+		public const string Author = "ImCytox";
 
 		public const string HomepageUrl = "https://github.com/ReClassNET/R3Cl4ss.N3T";
 

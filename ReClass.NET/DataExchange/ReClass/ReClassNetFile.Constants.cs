@@ -13,7 +13,7 @@ namespace ReClassNET.DataExchange.ReClass
 
 		private const string SerializationClassName = "__Serialization_Class__";
 
-		public const string XmlRootElement = "reclass";
+		public const string XmlRootElement = "r3cl4ss";
 		public const string XmlCustomDataElement = "custom_data";
 		public const string XmlTypeMappingElement = "type_mapping";
 		public const string XmlEnumsElement = "enums";
